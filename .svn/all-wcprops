@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/syntax-nanorc
+END
+xml.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/xml.nanorc
+END
+tex.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/tex.nanorc
+END
+etc-stuff.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/syntax-nanorc/etc-stuff.nanorc
+END
+httpstatuscodes.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/syntax-nanorc/httpstatuscodes.nanorc
+END
+paludis.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/paludis.nanorc
+END
+perl.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/perl.nanorc
+END
+vhost.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/vhost.nanorc
+END
+groff.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/groff.nanorc
+END
+others.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/others.nanorc
+END
+mcchangelog.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/syntax-nanorc/mcchangelog.nanorc
+END
+sh.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/syntax-nanorc/sh.nanorc
+END
+rcfiles-new.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/syntax-nanorc/rcfiles-new.nanorc
+END
+desc.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/desc.nanorc
+END
+nanorc.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/nanorc.nanorc
+END
+urls.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/urls.nanorc
+END
+apacheconf.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/apacheconf.nanorc
+END
+changelog.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/syntax-nanorc/changelog.nanorc
+END
+configfiles.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/syntax-nanorc/configfiles.nanorc
+END
+aptsrclist.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/aptsrclist.nanorc
+END
+dummy.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/dummy.nanorc
+END
+rsync.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/rsync.nanorc
+END
+config.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/config.nanorc
+END
+tab.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/tab.nanorc
+END
+changelogs.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/changelogs.nanorc
+END
+js.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/syntax-nanorc/js.nanorc
+END
+makefile.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/syntax-nanorc/makefile.nanorc
+END
+po.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/syntax-nanorc/po.nanorc
+END
+shlike.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/shlike.nanorc
+END
+c.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/syntax-nanorc/c.nanorc
+END
+default.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/default.nanorc
+END
+conf.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/conf.nanorc
+END
+nscd.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/nscd.nanorc
+END
+ekghistory.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/ekghistory.nanorc
+END
+config3.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/config3.nanorc
+END
+initscript.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/initscript.nanorc
+END
+gentoo.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/gentoo.nanorc
+END
+maincf.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/maincf.nanorc
+END
+c-file.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/c-file.nanorc
+END
+dotemacs.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/syntax-nanorc/dotemacs.nanorc
+END
+profile.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/profile.nanorc
+END
+passwd.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/passwd.nanorc
+END
+apache2.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/apache2.nanorc
+END
+postgresql.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/postgresql.nanorc
+END
+pov.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/pov.nanorc
+END
+ebuild.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/ebuild.nanorc
+END
+man.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/man.nanorc
+END
+sources_list.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/syntax-nanorc/sources_list.nanorc
+END
+java.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/java.nanorc
+END
+debian.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/debian.nanorc
+END
+conky.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/conky.nanorc
+END
+named.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/named.nanorc
+END
+clike.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/clike.nanorc
+END
+config2.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/config2.nanorc
+END
+initng.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/initng.nanorc
+END
+mutt.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/mutt.nanorc
+END
+mimetype.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/syntax-nanorc/mimetype.nanorc
+END
+etcportage.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/syntax-nanorc/etcportage.nanorc
+END
+xdefaults.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/syntax-nanorc/xdefaults.nanorc
+END
+plaudis.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/plaudis.nanorc
+END
+html.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/html.nanorc
+END
+delphi.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/delphi.nanorc
+END
+log-stuff.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/syntax-nanorc/log-stuff.nanorc
+END
+php2.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/php2.nanorc
+END
+bash.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/bash.nanorc
+END
+ini.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/ini.nanorc
+END
+xorg.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/xorg.nanorc
+END
+privoxy.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/privoxy.nanorc
+END
+asm.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/asm.nanorc
+END
+ruby.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/ruby.nanorc
+END
+python.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/python.nanorc
+END
+tcl.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/tcl.nanorc
+END
+rcfiles.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/rcfiles.nanorc
+END
+php.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/php.nanorc
+END
+css.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/syntax-nanorc/css.nanorc
+END
+info.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/info.nanorc
+END
+etcxml.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/syntax-nanorc/etcxml.nanorc
+END
+softcam.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/syntax-nanorc/softcam.nanorc
+END
+havp.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/syntax-nanorc/havp.nanorc
+END
+patch.nanorc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/syntax-nanorc/patch.nanorc
+END
