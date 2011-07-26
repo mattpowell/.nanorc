@@ -9,14 +9,14 @@
 #
 ##############################################################################
 
-syntax "etcxml" "/etc/fonts/(\.|/|)" "/etc/xdg/(\.|/|)"
-color white "^.+$"
-color green  start="<" end=">"
-color cyan   "<[^> ]+"
-color cyan   ">"
-color yellow start="<!DOCTYPE" end="[/]?>"
-color yellow start="<!--" end="-->"
-color red    "&[^;]*;"
+#syntax "etcxml" "/etc/fonts/(\.|/|)" "/etc/xdg/(\.|/|)"
+#color white "^.+$"
+#color green  start="<" end=">"
+#color cyan   "<[^> ]+"
+#color cyan   ">"
+#color yellow start="<!DOCTYPE" end="[/]?>"
+#color yellow start="<!--" end="-->"
+#color red    "&[^;]*;"
 
 syntax "etcxml2" "gentoorc$"
 color white "^.+$"
