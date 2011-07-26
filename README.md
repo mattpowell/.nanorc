@@ -12,7 +12,7 @@ And that's it :). Third command will loop through all .nanorc files, replace ~ i
 
 #CHANGES
 
--	Commented out offending lines from this set of errors (diff of changes: https://github.com/mattpowell/.nanorc/commit/e9a66f6db717e3befd950a0abe924262a8907307):
+-	Commented out offending lines from this set of errors (diff of changes: <https://github.com/mattpowell/.nanorc/commit/e9a66f6db717e3befd950a0abe924262a8907307>):
 
 		Error in /Users/mpowell/.nano/aptsrclist.nanorc on line 5: Bad regex "^deb(-src)? ((http|file|ftp):/[^ ]+|cdrom:\[[^\]]+\]/|cdrom:\[[a-zA-Z0-9\._-\(\) ]+\]/) [^ ]+ .+$": invalid character range
 
