@@ -5,7 +5,7 @@ color brightblue "^ .*"
 color brightred "^-.*"
 color red "^---.*"
 color red "(\d\d\s\w\+\s\d\{4\})"
-color brightyellow "^@@.*"
+color brightyellow "^@\@.*"
 color magenta "^diff.*"
 
 #syn region GentooChangeLogRelease start=/^\*/ end=/$/ contains=GentooChangeLogReleaseDate
