@@ -2,7 +2,7 @@
 
 ## Old version
 
-#syntax "jsfiles" "(\.|/|)js$"
+#syntax "jsfiles" "\.js$"
 #color green "//.*$" start="\/\*" end="\*\/"
 #color blue "'(\\.|[^'])*'"
 #color red ""(\\.|[^\"])*""
@@ -12,7 +12,7 @@
 
 ## New updated taken from http://wiki.linuxhelp.net/index.php/Nano_Syntax_Highlighting
 
-syntax "JavaScript" "\.(js)$"
+syntax "JavaScript" "\.js$"
 ## Default
 color white "^.+$"
 ## Decimal, cotal and hexadecimal numbers
